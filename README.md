@@ -10,9 +10,13 @@ Users can experiment with basic encryption methods like shifting pixel values or
 
 **Prerequisites**
 To run this project, you need the following software installed:
+
 Python 3.x: The primary programming language.
+
 Pillow: A Python library used for opening and manipulating images.
+
 To install Pillow, run:
+
 pip install pillow
 
 **Example Usage
@@ -21,12 +25,17 @@ Encrypting an Image**
 Would you like to (E)ncrypt or (D)ecrypt an image? E
 
 Enter the path to the image file: C:\Users\User\Pictures\example.png
+
 Enter the path to save the new image: C:\Users\User\Pictures\encrypted_example.png
+
 Enter an integer key for encryption/decryption: 5
 
 Decrypting an Image
+
 Would you like to (E)ncrypt or (D)ecrypt an image? D
 
 Enter the path to the image file: C:\Users\User\Pictures\encrypted_example.png
+
 Enter the path to save the new image: C:\Users\User\Pictures\decrypted_example.png
+
 Enter an integer key for encryption/decryption: 5
