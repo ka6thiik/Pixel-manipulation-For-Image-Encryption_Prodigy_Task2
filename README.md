@@ -19,12 +19,14 @@ pip install pillow
 Encrypting an Image**
 
 Would you like to (E)ncrypt or (D)ecrypt an image? E
+
 Enter the path to the image file: C:\Users\User\Pictures\example.png
 Enter the path to save the new image: C:\Users\User\Pictures\encrypted_example.png
 Enter an integer key for encryption/decryption: 5
 
 Decrypting an Image
 Would you like to (E)ncrypt or (D)ecrypt an image? D
+
 Enter the path to the image file: C:\Users\User\Pictures\encrypted_example.png
 Enter the path to save the new image: C:\Users\User\Pictures\decrypted_example.png
 Enter an integer key for encryption/decryption: 5
